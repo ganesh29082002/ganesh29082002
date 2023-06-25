@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Golhar</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India</h3>
 
-<img align="right" alt="codong" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+[![image-removebg-preview.png](https://i.postimg.cc/htTHtwhW/image-removebg-preview.png)](https://postimg.cc/VJs77KjD)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh29082002&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh29082002" /> </p>
 
